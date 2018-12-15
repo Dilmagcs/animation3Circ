@@ -37,6 +37,6 @@
     "build":"webpack --config webpack.client.js && webpack --config webpack.server.js"
 
   },
-  "author": "DiegoCS",
+  "author": "SimpleTut",
   "license": "ISC"
 }
